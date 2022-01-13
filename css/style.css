@@ -48,18 +48,6 @@ body {
    
     
 }
-
-
-.section-1{
-    background-color: blue;
-    color: white;
-    width:30%;
-    height: 200px;
-    border-radius: 15px;
-    text-align: left;
-    padding: 0.5px ;
-    margin: 20px 100px;
-}
 .section-1 h3{
     text-align: center;
 
@@ -75,6 +63,19 @@ body {
     color: white;
 }
 
+
+.section-1{
+    background-color: blue;
+    color: white;
+    width:30%;
+    height: 200px;
+    border-radius: 15px;
+    text-align: left;
+    padding: 0.5px ;
+    margin: 20px 100px;
+}
+
+
 .section-2{
     background-color: blue;
     color: white;
@@ -83,7 +84,7 @@ body {
     border-radius: 15px;
     display: inline-block;
     position: absolute;
-    margin-right: 10px;
+   
 }
 .section-3{
     background-color: blue;
