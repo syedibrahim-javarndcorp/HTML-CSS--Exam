@@ -23,7 +23,7 @@ body {
 }
 
 .top-container{
-    background-color: #8893a8;
+    background-color: #bbbbbd;
     height: 200px;
     color: white;
 }
@@ -36,4 +36,68 @@ body {
     margin: auto;
     width: 22%;
     text-align: left;
+    
+}
+.middle-container{
+    position: relative;
+}
+
+.middle-heading{
+    color: blue;
+    text-align: center;
+   
+    
+}
+
+
+.section-1{
+    background-color: blue;
+    color: white;
+    width:30%;
+    height: 200px;
+    border-radius: 15px;
+    text-align: left;
+    padding: 0.5px ;
+    margin: 20px 100px;
+}
+.section-1 h3{
+    text-align: center;
+
+}
+.section-1 p{
+    font-size: 0.7rem;
+    margin-left: 1px;
+    padding: 20px;
+    
+}
+
+.section-1 a{
+    color: white;
+}
+
+.section-2{
+    background-color: blue;
+    color: white;
+    width:30%;
+    height: 200px;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    margin-right: 10px;
+}
+.section-3{
+    background-color: blue;
+    color: white;
+    width:30%;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+.section-4{
+    background-color: blue;
+    color: white;
+    width:30%;
+    height: 200px;
+    border-radius: 15px;
+    
 }
