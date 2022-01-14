@@ -59,6 +59,7 @@ body {
     width: 500px;
     margin-left: 60px;
     text-align: left;
+    display: inline-block;
     
 }
 .section-1 h3{
@@ -71,5 +72,40 @@ body {
 }
    
 .section-2{
+    border-radius: 15px;
+    background-color: #154dbd;
+    height: 200px;
+    width: 500px;
+    float: right;
+    margin-right: 150px;
+}
+
+.section-3{
+    border-radius: 15px;
+    background-color: #154dbd;
+    height: 200px;
+    width: 500px;
+    margin-left: 60px;
+    margin-top: 30px;
+    display: inline-block;
+
+}
+.section-4{
+    border-radius: 15px;
+    background-color: #154dbd;
+    height: 200px;
+    width: 500px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.bottom-container{
+    position: relative;
+}
+.bottom-container h3{
+    color: #154dbd;
+}
+.test-container-1{
+    height: 40px;
     
 }
